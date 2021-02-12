@@ -1,0 +1,10 @@
+.div-1> p {
+color:blue;
+}
+.div-2>ul li {
+    border-bottom:1px solid blue;
+}
+p~img{
+    width:100px;
+    height: 100px;
+}
